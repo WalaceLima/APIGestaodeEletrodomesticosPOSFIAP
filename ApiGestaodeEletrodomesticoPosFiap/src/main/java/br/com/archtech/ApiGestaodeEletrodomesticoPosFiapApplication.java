@@ -1,11 +1,11 @@
 package br.com.archtech;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 
 
-
+@ComponentScan({"com.beta.replyservice", "com.beta.ruleService"})
 @SpringBootApplication
 public class ApiGestaodeEletrodomesticoPosFiapApplication {
 

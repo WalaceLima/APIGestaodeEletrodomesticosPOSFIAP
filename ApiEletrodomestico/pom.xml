@@ -5,26 +5,27 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.0.7</version>
+		<version>3.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.archtech</groupId>
-	<artifactId>ApiGestaodeEletrodomesticoPosFiap</artifactId>
+	<groupId>br.com.arqTech</groupId>
+	<artifactId>ApiEletrodomestico</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ApiGestaodeEletrodomesticoPosFiap</name>
-	<description>Api Gestão de Eletrodomestico</description>
+	<name>ApiEletrodomestico</name>
+	<description>ApiEletrodomestico</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
@@ -45,29 +46,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-				<!-- https://mvnrepository.com/artifact
-		/org.springframework.boot/spring-boot-starter-validation -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-validation</artifactId>
-		</dependency>
-		<!-- https://mvnrepository.com/artifact
-		/org.springframework.boot/modelmapper-spring -->
-		<dependency>
-			<groupId>org.modelmapper.extensions</groupId>
-			<artifactId>modelmapper-spring</artifactId>
-			<version>3.0.0</version>
-		</dependency>
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger2</artifactId>
-			<version>2.9.2</version>
-		</dependency>
-		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger-ui</artifactId>
-			<version>2.9.2</version>
 		</dependency>
 	</dependencies>
 
