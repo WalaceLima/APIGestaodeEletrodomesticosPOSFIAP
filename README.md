@@ -22,22 +22,21 @@ Neste exemplo, o endpoint é do tipo POST e os parâmetros de solicitação são
 
 ### Parâmetros no corpo da solicitação (JSON):
 
-
-![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/ai332-mzxrc.png)
+![Picture1](https://s4.aconvert.com/convert/p3r68-cdx67/ai332-mzxrc.png)
 
 Exemplo de solicitação:
 - POST /eletrodomesticos
 
 #### Exemplo de solicitação:
 
-![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/am6uw-02oso.png)
+![Picture2](https://s4.aconvert.com/convert/p3r68-cdx67/am6uw-02oso.png)
 
 Formato de resposta:
 Cabeçalho HTTP:
 
 #### Corpo da resposta (JSON):
 
-![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/asnob-n6fjs.png)
+![Picture3](https://s4.aconvert.com/convert/p3r68-cdx67/asnob-n6fjs.png)
 
 #### Lidando com Erros
 
@@ -45,15 +44,15 @@ A API possui um mecanismo robusto para lidar com erros e fornece respostas adequ
 
 #### Corpo da solicitação.
 
-![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/a2nug-vji87.png)
+![Picture4](https://s4.aconvert.com/convert/p3r68-cdx67/a2nug-vji87.png)
 
 - Resposta 201 Created: Este código de status é retornado quando uma solicitação de criação de recurso é bem-sucedida.
 
 #### Corpo da solicitação inválida:
 
-![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/ak4zd-gdvji.png)
+![Picture5](https://s4.aconvert.com/convert/p3r68-cdx67/ak4zd-gdvji.png)
 
-![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/a9rml-iqlud.png)
+![Picture6](https://s4.aconvert.com/convert/p3r68-cdx67/a9rml-iqlud.png)
 
 - 400 Bad Request: Este código de status é retornado quando ocorre um erro no lado do cliente, como uma solicitação inválida ou parâmetros ausentes ou inválidos.
 
