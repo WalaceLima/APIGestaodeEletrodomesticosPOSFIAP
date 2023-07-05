@@ -22,21 +22,22 @@ Neste exemplo, o endpoint é do tipo POST e os parâmetros de solicitação são
 
 ### Parâmetros no corpo da solicitação (JSON):
 
-COLAR IMAGEM
+
+![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/ai332-mzxrc.png)
 
 Exemplo de solicitação:
 - POST /eletrodomesticos
 
 #### Exemplo de solicitação:
 
-COLAR IMAGEM
+![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/am6uw-02oso.png)
 
 Formato de resposta:
 Cabeçalho HTTP:
 
 #### Corpo da resposta (JSON):
 
-COLAR IMAGEM
+![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/asnob-n6fjs.png)
 
 #### Lidando com Erros
 
@@ -44,15 +45,15 @@ A API possui um mecanismo robusto para lidar com erros e fornece respostas adequ
 
 #### Corpo da solicitação.
 
-COLAR IMAGEM
+![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/a2nug-vji87.png)
 
 - Resposta 201 Created: Este código de status é retornado quando uma solicitação de criação de recurso é bem-sucedida.
 
 #### Corpo da solicitação inválida:
 
-COLAR IMAGEM
+![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/ak4zd-gdvji.png)
 
-COLAR IMAGEM
+![alt text](https://s4.aconvert.com/convert/p3r68-cdx67/a9rml-iqlud.png)
 
 - 400 Bad Request: Este código de status é retornado quando ocorre um erro no lado do cliente, como uma solicitação inválida ou parâmetros ausentes ou inválidos.
 
