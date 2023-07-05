@@ -11,10 +11,10 @@ Uma vez validadas as informações, a API informa que está tudo ok e dar um ret
 
 
 ### Endpoint: 
-/eletrodomesticos
+- /eletrodomesticos
       
 ### Método HTTP:
-Post
+- Post
 
 ### Descrição:
 Este endpoint cria um novo eletrodoméstico com base nos parâmetros fornecidos.
@@ -25,7 +25,7 @@ Neste exemplo, o endpoint é do tipo POST e os parâmetros de solicitação são
 COLAR IMAGEM
 
 Exemplo de solicitação:
-POST /eletrodomesticos
+- POST /eletrodomesticos
 
 #### Exemplo de solicitação:
 
@@ -46,7 +46,7 @@ A API possui um mecanismo robusto para lidar com erros e fornece respostas adequ
 
 COLAR IMAGEM
 
-Resposta 201 Created: Este código de status é retornado quando uma solicitação de criação de recurso é bem-sucedida.
+- Resposta 201 Created: Este código de status é retornado quando uma solicitação de criação de recurso é bem-sucedida.
 
 #### Corpo da solicitação inválida:
 
@@ -54,7 +54,7 @@ COLAR IMAGEM
 
 COLAR IMAGEM
 
-400 Bad Request: Este código de status é retornado quando ocorre um erro no lado do cliente, como uma solicitação inválida ou parâmetros ausentes ou inválidos.
+- 400 Bad Request: Este código de status é retornado quando ocorre um erro no lado do cliente, como uma solicitação inválida ou parâmetros ausentes ou inválidos.
 
 ### Repositório API:
 - [API de Gestão de Eletrodomésticos](https://github.com/WalaceLima/APIGestaodeEletrodomesticosPOSFIAP.git).
