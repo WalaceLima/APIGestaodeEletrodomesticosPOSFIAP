@@ -1,4 +1,4 @@
-package br.com.apigestaoconsumo.apigestaoconsumo.models;
+package br.com.apieletro.apieletro.models;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

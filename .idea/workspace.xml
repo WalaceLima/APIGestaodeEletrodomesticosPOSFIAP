@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="de5f615f-30fe-4c6c-a019-fdaa0554ed17" name="Changes" comment="" />
+    <list default="true" id="de5f615f-30fe-4c6c-a019-fdaa0554ed17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/src/main/java/br/com/arqtech/ApiGestaodeEledromesticoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/src/main/java/br/com/arqtech/controllers/EletrodomesticoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/src/main/java/br/com/arqtech/dtos/EletrodomesticoDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/src/main/java/br/com/arqtech/entities/Eletrodomestico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/src/main/java/br/com/arqtech/repositories/EletrodomesticoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/src/main/java/br/com/arqtech/service/EletrodomesticoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIGestaodeEledromestico/src/test/java/br/com/arqtech/ApiGestaodeEledromesticoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/src/main/java/br/com/arqtech/apieletrodomestico/ApiEletrodomesticoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiEletrodomestico/src/test/java/br/com/arqtech/apieletrodomestico/ApiEletrodomesticoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/ApiGestaodeEletrodomesticoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/config/SwaggerConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/controllers/EletrodomesticoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/dtos/EletrodomesticoPostDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/dtos/EletrodomesticoResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/interfaces/IEletrodomesticoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/models/Eletrodomestico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/repositores/EletrodomesticoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/repositores/IEletrodomesticoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/services/EletrodomesticoAppService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/services/EletrodomesticoDomainService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/java/br/com/archtech/services/EletrodomesticoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomestico/src/test/java/br/com/archtech/ApiGestaodeEletrodomesticoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/ApiGestaodeEletrodomesticoPosFiapApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/controllers/EletrodomesticoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/dtos/EletrodomesticoDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/dtos/EletrodomesticoResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/entities/Eletrodomestico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/repositories/EletrodomesticoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/services/EletrodomesticoAppService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/services/EletrodomesticoDomainService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/java/br/com/archtech/services/EletrodomesticoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/main/resources/base.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGestaodeEletrodomesticoPosFiap/src/test/java/br/com/archtech/ApiGestaodeEletrodomesticoPosFiapApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +80,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/wzda/projetoPos/APIGestaodeEletrodomesticosPOSFIAP"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wzda/projetoPos/APIGestaodeEletrodomesticosPOSFIAP/ApiGestaodeEletrodomesticoPosFiap&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wzda\projetoPos\APIGestaodeEletrodomesticosPOSFIAP\ApiGestaodeEletrodomesticoPosFiap\src\main\java\br\com" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +106,11 @@
       <option name="presentableId" value="Default" />
       <updated>1687889371749</updated>
       <workItem from="1687889375558" duration="205000" />
+      <workItem from="1689643205861" duration="578000" />
+      <workItem from="1689645023979" duration="894000" />
+      <workItem from="1689909908204" duration="104000" />
+      <workItem from="1690326798530" duration="254000" />
+      <workItem from="1690327191449" duration="47000" />
     </task>
     <servers />
   </component>
