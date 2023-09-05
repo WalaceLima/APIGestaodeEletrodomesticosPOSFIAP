@@ -15,6 +15,9 @@ Uma vez validadas as informações, a API informa que está tudo ok e dar um ret
       
 ### Método HTTP:
 - Post
+- Get
+- Update
+- Delete
 
 ### Descrição:
 Este endpoint cria um novo eletrodoméstico com base nos parâmetros fornecidos.
